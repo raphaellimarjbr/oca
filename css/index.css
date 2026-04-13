@@ -1,0 +1,227 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Unbounded:wght@200..900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+img{
+    width:200px;
+    height:200px;
+    margin:25px 0 0 0;
+}
+
+:root {
+    --sombra: rgba(0,0,0,0.5);
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    padding: 10px;
+    margin:0;
+    padding:0;
+}
+header h1 {
+    letter-spacing: 3px;
+    font-weight: 400;
+    text-align: center;
+    font-size: 2.2em;
+    text-shadow: 0px 3px 4px var(--sombra);
+    margin:25px 0;
+}
+.card-modalidade {
+    width: 90%;
+    margin: auto;
+    background-color: rgb(13, 13, 13);
+    border-radius: 5px 5px 20px 5px;
+    padding: 2px;
+    box-shadow: 1px 2px 4px var(--sombra);
+    align-items: center;
+    text-indent: 10px;
+    padding-top: 10px;
+}
+.card-modalidade p {
+    color: white;
+    letter-spacing: 5px;
+    font-weight: 400;
+    font-size: 1.1em;
+    align-items: center;
+    font-family: "Unbounded", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-transform:uppercase;
+}
+
+
+#atetlas {
+    display:flex;
+    flex-flow: column;
+    gap:15px;
+    margin:25px 0;
+    text-transform: uppercase;
+}
+
+
+/* Container geral */
+.tabela-container {
+    width: 100%;
+    overflow-x: auto; /* permite scroll no mobile */
+}
+
+/* Tabela base */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 600px; /* evita quebrar layout */
+    background-color: #111;
+    color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* Cabeçalho */
+thead {
+    background-color: #1f1f1f;
+}
+
+th {
+    padding: 12px;
+    text-align: left;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+/* Linhas */
+td {
+    padding: 10px;
+    font-size: 14px;
+    border-top: 1px solid #333;
+}
+
+/* Zebra effect */
+tbody tr:nth-child(even) {
+    background-color: #181818;
+}
+
+/* Hover (desktop) */
+tbody tr:hover {
+    background-color: #222;
+    transition: 0.2s;
+}
+
+/* ========================= */
+/* 🔥 RESPONSIVO MOBILE REAL */
+/* ========================= */
+
+@media (max-width: 768px) {
+    #margin {
+        width:80% !important;
+    }
+    table {
+        min-width: 100%;
+    }
+
+    thead {
+        display: none; /* esconde o cabeçalho */
+    }
+
+    tbody tr {
+        display: block;
+        background: #1a1a1a;
+        border-radius: 10px;
+        padding: 10px;
+    }
+
+    tbody td {
+        display: flex;
+        gap:20px;
+        justify-content: space-between;
+        padding: 8px;
+        border: none;
+        border-bottom: 1px solid #333;
+    }
+
+    tbody td:last-child {
+        border-bottom: none;
+    }
+
+    /* Labels simulando o TH */
+    tbody td::before {
+        content: attr(data-label);
+        font-weight: bold;
+        color: #aaa;
+    }
+}
+
+
+.footer {
+    width: 100%;
+    background-color: #111;
+    color: #ccc;
+    text-align: center;
+    padding: 15px 10px;
+    font-size: 14px;
+    border-top: 1px solid #222;
+}
+
+.footer p {
+    margin: 0;
+}
+
+/* Destaque nos nomes */
+.footer strong {
+    color: #fff;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+    .footer {
+        font-size: 13px;
+        padding: 12px 8px;
+    }
+}
+
+#margin {
+    width:70%;
+    margin:auto;
+    display:flex;
+    flex-flow:column;
+    align-items:center;
+    justify-content:center;
+}
+
+
+
+/* ANIMAÇÕES (Peguei do site anismita mesmo) */
+.tracking-in-contract {
+	-webkit-animation: tracking-in-contract 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+	        animation: tracking-in-contract 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+}
+@-webkit-keyframes tracking-in-contract {
+  0% {
+    letter-spacing: 1em;
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    letter-spacing: normal;
+    opacity: 1;
+  }
+}
+@keyframes tracking-in-contract {
+  0% {
+    letter-spacing: 1em;
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    letter-spacing: normal;
+    opacity: 1;
+  }
+}

@@ -1,0 +1,2254 @@
+{
+  "atletas": [
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "João",
+      "nomeDeGuerra": "João",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "CORRIDA DE ORIENTAÇÃO"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": [
+        "14/04",
+        "15/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Igor",
+      "nomeDeGuerra": "Igor",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "BASQUETE",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "ISAAC",
+      "nomeDeGuerra": "ISAAC",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "ATLETISMO",
+        "CORRIDA (200)",
+        "CORRIDA (4x100)"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Arthur",
+      "nomeDeGuerra": "Arthur",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "ATLETISMO",
+        "BASQUETE",
+        "CORRIDA (1.500)"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Kaio",
+      "nomeDeGuerra": "Kaio",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "CORRIDA DE ORIENTAÇÃO"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": [
+        "14/04",
+        "15/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Marianny",
+      "nomeDeGuerra": "Marianny",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "SOARES",
+      "nomeDeGuerra": "SOARES",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Tavares",
+      "nomeDeGuerra": "Tavares",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "SALTO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Kaio",
+      "nomeDeGuerra": "Kaio",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "CORRIDA DE ORIENTAÇÃO"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": [
+        "14/04",
+        "15/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "MARCELLA BRITO",
+      "nomeDeGuerra": "MARCELLA BRITO",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Lucas Zen",
+      "nomeDeGuerra": "Lucas Zen",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "CORRIDA DE ORIENTAÇÃO"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": [
+        "14/04",
+        "15/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Hevellen.",
+      "nomeDeGuerra": "Hevellen.",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Fernandes",
+      "nomeDeGuerra": "Fernandes",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Laís",
+      "nomeDeGuerra": "Laís",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "CORRIDA (4x400)"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Barbosa",
+      "nomeDeGuerra": "Barbosa",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "ATLETISMO",
+        "FUTEBOL",
+        "CORRIDA (400)",
+        "CORRIDA (5.000)"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Clara",
+      "nomeDeGuerra": "Clara",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "CORRIDA DE ORIENTAÇÃO"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": [
+        "14/04",
+        "15/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Thiago",
+      "nomeDeGuerra": "Thiago",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "BASQUETE",
+        "CORRIDA DE ORIENTAÇÃO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Willian",
+      "nomeDeGuerra": "Willian",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "BASQUETE",
+        "FUTEBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "INGRID",
+      "nomeDeGuerra": "INGRID",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Araújo",
+      "nomeDeGuerra": "Araújo",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "FUTEBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "AMANDA",
+      "nomeDeGuerra": "AMANDA",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "CORRIDA DE ORIENTAÇÃO"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": [
+        "14/04",
+        "15/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "KENJI",
+      "nomeDeGuerra": "KENJI",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Vitória",
+      "nomeDeGuerra": "Vitória",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "ATLETISMO",
+        "CORRIDA (100)",
+        "CORRIDA (400)",
+        "FLEXÃO DE BRAÇO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Karoliny",
+      "nomeDeGuerra": "Karoliny",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "PENTATLO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Heloisa",
+      "nomeDeGuerra": "Heloisa",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Juliana",
+      "nomeDeGuerra": "Juliana",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "CORRIDA DE ORIENTAÇÃO",
+        "NATAÇÃO"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": [
+        "14/04",
+        "15/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "ISABELLA",
+      "nomeDeGuerra": "ISABELLA",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Gabriela",
+      "nomeDeGuerra": "Gabriela",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NATAÇÃO",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Ana Sales",
+      "nomeDeGuerra": "Ana Sales",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Campos",
+      "nomeDeGuerra": "Campos",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Max",
+      "nomeDeGuerra": "Max",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Amilcar",
+      "nomeDeGuerra": "Amilcar",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "ATLETISMO",
+        "CORRIDA (100)",
+        "CORRIDA (1.500)",
+        "CORRIDA (4x100)",
+        "CORRIDA (4x400)"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Julia Gama",
+      "nomeDeGuerra": "Julia Gama",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Siqueira",
+      "nomeDeGuerra": "Siqueira",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "SALTO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "ANA BEATRIZ",
+      "nomeDeGuerra": "ANA BEATRIZ",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Vianna",
+      "nomeDeGuerra": "Vianna",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "FUTEBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Camila Gomes",
+      "nomeDeGuerra": "Camila Gomes",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Pedro Henrique",
+      "nomeDeGuerra": "Pedro Henrique",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "FUTEBOL",
+        "NATAÇÃO",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Eduarda",
+      "nomeDeGuerra": "Eduarda",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Larissa",
+      "nomeDeGuerra": "Larissa",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "EMILY",
+      "nomeDeGuerra": "EMILY",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "ATLETISMO",
+        "CORRIDA (4x400)",
+        "TÊNIS DE MESA",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Larissa Andrade",
+      "nomeDeGuerra": "Larissa Andrade",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Yasmin",
+      "nomeDeGuerra": "Yasmin",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Iglesias",
+      "nomeDeGuerra": "Iglesias",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "TÊNIS DE MESA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": [
+        "15/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Oliveira",
+      "nomeDeGuerra": "Oliveira",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Sumar",
+      "nomeDeGuerra": "Sumar",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Pena",
+      "nomeDeGuerra": "Pena",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "FUTEBOL",
+        "NATAÇÃO",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Gusmão",
+      "nomeDeGuerra": "Gusmão",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Bitt",
+      "nomeDeGuerra": "Bitt",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "CORRIDA (1.500)",
+        "CORRIDA DE ORIENTAÇÃO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Cassimiro",
+      "nomeDeGuerra": "Cassimiro",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "CORRIDA DE ORIENTAÇÃO",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Laryssa França",
+      "nomeDeGuerra": "Laryssa França",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Lorrayne",
+      "nomeDeGuerra": "Lorrayne",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Cristina Abreu",
+      "nomeDeGuerra": "Cristina Abreu",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NATAÇÃO",
+        "PENTATLO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "PRADO",
+      "nomeDeGuerra": "PRADO",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Saul",
+      "nomeDeGuerra": "Saul",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "CORRIDA (800)",
+        "PENTATLO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "CORRÊA",
+      "nomeDeGuerra": "CORRÊA",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Noara",
+      "nomeDeGuerra": "Noara",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "TÊNIS DE MESA",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Flavio",
+      "nomeDeGuerra": "Flavio",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "SIMIONI",
+      "nomeDeGuerra": "SIMIONI",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Julia Iris",
+      "nomeDeGuerra": "Julia Iris",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Menezes",
+      "nomeDeGuerra": "Menezes",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Erik",
+      "nomeDeGuerra": "Erik",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "CORRIDA DE ORIENTAÇÃO"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": [
+        "14/04",
+        "15/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "SANTOS",
+      "nomeDeGuerra": "SANTOS",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "FUTEBOL",
+        "XADREZ"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Da Silva",
+      "nomeDeGuerra": "Da Silva",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "ISMAEL",
+      "nomeDeGuerra": "ISMAEL",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "XADREZ"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": [
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Mariana Rosa",
+      "nomeDeGuerra": "Mariana Rosa",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NATAÇÃO",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Theodoro",
+      "nomeDeGuerra": "Theodoro",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "ARREMESSO DE PESO",
+        "NATAÇÃO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Breno",
+      "nomeDeGuerra": "Breno",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "ATLETISMO",
+        "FUTEBOL",
+        "CORRIDA (5.000)",
+        "TÊNIS DE MESA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Elias",
+      "nomeDeGuerra": "Elias",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "JUAN",
+      "nomeDeGuerra": "JUAN",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "FUTEBOL",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Macedo",
+      "nomeDeGuerra": "Macedo",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Nunes",
+      "nomeDeGuerra": "Nunes",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "GABRIEL",
+      "nomeDeGuerra": "GABRIEL",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "BASQUETE",
+        "JUDÔ"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Maria Eduarda",
+      "nomeDeGuerra": "Maria Eduarda",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "MATHEUS SILVA",
+      "nomeDeGuerra": "MATHEUS SILVA",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Lorosa",
+      "nomeDeGuerra": "Lorosa",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "ATLETISMO",
+        "CORRIDA (4x400)"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Campina",
+      "nomeDeGuerra": "Campina",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "LISBOA",
+      "nomeDeGuerra": "LISBOA",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "ATLETISMO",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Maria Brito",
+      "nomeDeGuerra": "Maria Brito",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "ATLETISMO",
+        "CORRIDA (1.500)"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Andrade",
+      "nomeDeGuerra": "Andrade",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "TÊNIS DE MESA",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Costa Silva",
+      "nomeDeGuerra": "Costa Silva",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "NATAÇÃO",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Henrique",
+      "nomeDeGuerra": "Henrique",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "ATLETISMO",
+        "CORRIDA (400)",
+        "CORRIDA (4x100)",
+        "FLEXÃO DE BRAÇO",
+        "JUDÔ"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Vitória Santos",
+      "nomeDeGuerra": "Vitória Santos",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "DOS ANJOS",
+      "nomeDeGuerra": "DOS ANJOS",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "IAGO",
+      "nomeDeGuerra": "IAGO",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "BASQUETE",
+        "FUTEBOL",
+        "TÊNIS DE MESA",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Julia",
+      "nomeDeGuerra": "Julia",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Hellena",
+      "nomeDeGuerra": "Hellena",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Mariana",
+      "nomeDeGuerra": "Mariana",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "COSTA",
+      "nomeDeGuerra": "COSTA",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "ATLETISMO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Santana",
+      "nomeDeGuerra": "Santana",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "GODOY",
+      "nomeDeGuerra": "GODOY",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "ATLETISMO",
+        "LANÇAMENTO DE DARDO",
+        "LANÇAMENTO DE DISCO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Martins",
+      "nomeDeGuerra": "Martins",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Isabelly Andrade",
+      "nomeDeGuerra": "Isabelly Andrade",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "AMANCIO",
+      "nomeDeGuerra": "AMANCIO",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "CORRIDA (800)",
+        "FLEXÃO DE BRAÇO",
+        "PENTATLO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Campos",
+      "nomeDeGuerra": "Campos",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "JÉSSICA",
+      "nomeDeGuerra": "JÉSSICA",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "TÊNIS DE MESA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": [
+        "15/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Honaine",
+      "nomeDeGuerra": "Honaine",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Renan",
+      "nomeDeGuerra": "Renan",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Gustavo",
+      "nomeDeGuerra": "Gustavo",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "ATLETISMO",
+        "FUTEBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Victoria Mesquita",
+      "nomeDeGuerra": "Victoria Mesquita",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "LAYSA",
+      "nomeDeGuerra": "LAYSA",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "THAYSSA BLOIS",
+      "nomeDeGuerra": "THAYSSA BLOIS",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "ALICE",
+      "nomeDeGuerra": "ALICE",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "MELISSA",
+      "nomeDeGuerra": "MELISSA",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "ATLETISMO",
+        "CORRIDA (100)",
+        "FLEXÃO DE BRAÇO",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Meireles",
+      "nomeDeGuerra": "Meireles",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "ATLETISMO",
+        "ARREMESSO DE PESO",
+        "LANÇAMENTO DE DISCO",
+        "PENTATLO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "MARCOS",
+      "nomeDeGuerra": "MARCOS",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "JUDÔ"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": [
+        "14/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Luiz",
+      "nomeDeGuerra": "Luiz",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "BASQUETE",
+        "FUTEBOL",
+        "CORRIDA DE ORIENTAÇÃO",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "BRAGA",
+      "nomeDeGuerra": "BRAGA",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Carmo",
+      "nomeDeGuerra": "Carmo",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Stefany",
+      "nomeDeGuerra": "Stefany",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Eduardo Paes",
+      "nomeDeGuerra": "Eduardo Paes",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "NATAÇÃO",
+        "PENTATLO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Pedro",
+      "nomeDeGuerra": "Pedro",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "FUTEBOL",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Noan",
+      "nomeDeGuerra": "Noan",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "BASQUETE",
+        "NATAÇÃO",
+        "VOLEIBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "MAYARA",
+      "nomeDeGuerra": "MAYARA",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Mendes",
+      "nomeDeGuerra": "Mendes",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Pereira",
+      "nomeDeGuerra": "Pereira",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Hanna",
+      "nomeDeGuerra": "Hanna",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "CIRILLO",
+      "nomeDeGuerra": "CIRILLO",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "NATAÇÃO",
+        "XADREZ"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": [
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Sara",
+      "nomeDeGuerra": "Sara",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Alves",
+      "nomeDeGuerra": "Alves",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Evangelista",
+      "nomeDeGuerra": "Evangelista",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Da Rocha",
+      "nomeDeGuerra": "Da Rocha",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "FUTEBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Millena Silva",
+      "nomeDeGuerra": "Millena Silva",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "GERMANO",
+      "nomeDeGuerra": "GERMANO",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Cipriano",
+      "nomeDeGuerra": "Cipriano",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "PENTATLO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "MIGUEL",
+      "nomeDeGuerra": "MIGUEL",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "FUTEBOL"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Ana silva",
+      "nomeDeGuerra": "Ana silva",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Renata",
+      "nomeDeGuerra": "Renata",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "PENTATLO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "MILENA CRISTINA",
+      "nomeDeGuerra": "MILENA CRISTINA",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Lima",
+      "nomeDeGuerra": "Lima",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "ATLETISMO",
+        "LANÇAMENTO DE DARDO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Cristina",
+      "nomeDeGuerra": "Cristina",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Vitória Nunes",
+      "nomeDeGuerra": "Vitória Nunes",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Victoria Pereira",
+      "nomeDeGuerra": "Victoria Pereira",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Melo",
+      "nomeDeGuerra": "Melo",
+      "esquadrilha": "BRAVO",
+      "modalidade": [
+        "NATAÇÃO"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": [
+        "15/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Tavares",
+      "nomeDeGuerra": "Tavares",
+      "esquadrilha": "ALFA",
+      "modalidade": [
+        "SALTO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "L. GONÇALVES",
+      "nomeDeGuerra": "L. GONÇALVES",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Nathalia",
+      "nomeDeGuerra": "Nathalia",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Mylena Gama",
+      "nomeDeGuerra": "Mylena Gama",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Maria Clara",
+      "nomeDeGuerra": "Maria Clara",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "SUZANA",
+      "nomeDeGuerra": "SUZANA",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "THIEL",
+      "nomeDeGuerra": "THIEL",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Rebeca",
+      "nomeDeGuerra": "Rebeca",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Rebeca",
+      "nomeDeGuerra": "Rebeca",
+      "esquadrilha": "DELTA",
+      "modalidade": [
+        "NÃO SOU ATLETA"
+      ],
+      "competindo": "Não",
+      "dataDeCompeticao": []
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Camilly Silva",
+      "nomeDeGuerra": "Camilly Silva",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "CABO DE GUERRA"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04",
+        "17/04"
+      ]
+    },
+    {
+      "milhao": "",
+      "saram": "",
+      "nome": "Jamily",
+      "nomeDeGuerra": "Jamily",
+      "esquadrilha": "CHARLIE",
+      "modalidade": [
+        "PENTATLO"
+      ],
+      "competindo": "Sim",
+      "dataDeCompeticao": [
+        "13/04",
+        "14/04",
+        "15/04",
+        "16/04"
+      ]
+    }
+  ]
+}
